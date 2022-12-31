@@ -1,6 +1,7 @@
+<p align = "centre"> <img src="https://img.freepik.com/free-vector/digital-binary-code-algorithm-stream-matrix-background_1017-25328.jpg?w=1060&t=st=1672491968~exp=1672492568~hmac=67a114a8edad4984d6f251b95479f4ab959c1dc4763aee9199abfae238305dad" width="100%" height="300px"> </p>
 <h1 align="center">Hi 👋, I'm Amal c z</h1>
 <h3 align="center">A passionate cyber security enthusiast and python developer from India.</h3>
-<p align="center"> <img src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" width="300px",height="300px"></p>
+<p align="center"> <img src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" width="300px",height="330px"></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cz-amal&label=Profile%20views&color=0e75b6&style=flat" alt="cz-amal" /> </p>
 
