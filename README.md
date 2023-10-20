@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cz-amal" alt="cz-amal" /></a> </p>
 
-- 🔭 I’m currently working on school management system using tkinter and mysql
+- 🔭 I’m currently working on machine learning projects..
 
-- 🌱 I’m currently learning Django, photoshop and website pentesting
+- 🌱 I’m currently learning Flask and competitive coding
 
 - 👨‍💻 All of my projects are available at [https://github.com/cz-amal](https://github.com/cz-amal)
 
-- 📝 I regularly write articles on [https://link.medium.com/12hpwZMAcwb](https://link.medium.com/12hpwZMAcwb)
+- 📝 I occasionally write articles on [https://link.medium.com/12hpwZMAcwb](https://link.medium.com/12hpwZMAcwb)
 
 - 💬 Ask me about Python, cyber security
 
-- 📫 How to reach me amaladhil02@gmail.com
+- 📫 How to reach me amaladhil020@gmail.com
 
 - ⚡️ Fun fact I sleep when i'm happy, sad, excited, confused, hungry.......
 
