@@ -9,9 +9,7 @@
   <img src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" width="300px" height="300px">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cz-amal&label=Profile%20views&color=0e75b6&style=flat" alt="cz-amal" />
-</p>
+
 
 ---
 
