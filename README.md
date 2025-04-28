@@ -5,9 +5,6 @@
 <h1 align="center">Hi 👋, I'm Amal C Z</h1>
 <h3 align="center">Passionate Python Developer | Java & Dart Enthusiast | Flutter Developer | Machine Learning Explorer | Deep Learning Learner</h3>
 
-<p align="center">
-  <img src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" width="300px" height="300px">
-</p>
 
 
 
