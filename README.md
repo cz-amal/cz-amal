@@ -1,5 +1,5 @@
 <h1 align="center">🎨✨ Hᴇʏ, I'ᴍ Aᴍᴀʟ C Z! ✨🎨</h1>
-<h3 align="center">🔮 Pʏᴛʜᴏɴ Wɪᴢᴀʀᴅ | Jᴀᴠᴀ Vɪʀᴛᴜᴏsᴏ | Dᴀʀᴛ Dʏɴᴀᴍᴏ | Fʟᴜᴛᴛᴇʀ Fʟᴀɪʀ | ML Mᴀᴇsᴛʀᴏ 🔮</h3>
+<h3 align="center">🔮 Pʏᴛʜᴏɴ | Jᴀᴠᴀ  | Dᴀʀᴛ  | Fʟᴜᴛᴛᴇʀ  | ML  🔮</h3>
 
 <p align="center">
   <img src="https://img.icons8.com/plasticine/100/000000/source-code.png" alt="Coding Icon" hspace="10"/>
@@ -8,35 +8,11 @@
 </p>
 
 <p align="center">
-  <em>🚀 Crafting dazzling digital experiences with a splash of innovation and a whole lot of code! 🌈 My current quest involves unraveling the vibrant tapestry of Machine Learning and building pixel-perfect wonders with Flutter. Let's make the web a more colorful place! 🌟</em>
+  <em>🚀 Crafting dazzling digital experiences with a splash of innovation and a whole lot of code!  My current quest involves unraveling the vibrant tapestry of Machine Learning and building pixel-perfect wonders with Flutter. Let's make the web a more colorful place! 🌟</em>
 </p>
 
 <p align="center">
-═══════🌈💻✨🎨✨💻🌈═══════
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/fluency/48/000000/rocket.png" alt="Rocket Icon" style="vertical-align: middle;" hspace="5"/>
-  <strong>Cᴜʀʀᴇɴᴛ Cᴏʟᴏʀғᴜʟ Cʀᴜsᴀᴅᴇs:</strong>
-  <img src="https://img.icons8.com/fluency/48/000000/telescope.png" alt="Telescope Icon" style="vertical-align: middle;" hspace="5"/>
-</p>
-<p align="center" style="font-size: 1.1em;">
-  🧠 Diving deep into the spectrum of <strong>Advanced Machine Learning</strong>! <br>
-  📱 Weaving interactive and stunning mobile applications with <strong>Flutter</strong>!
-</p>
-
-<p align="center">
-  <img src="https://img.icons8.com/fluency/48/000000/books.png" alt="Books Icon" style="vertical-align: middle;" hspace="5"/>
-  <strong>Lᴇᴀʀɴɪɴɢ Lᴀʙʏʀɪɴᴛʜ:</strong>
-  <img src="https://img.icons8.com/fluency/48/000000/student-male.png" alt="Student Icon" style="vertical-align: middle;" hspace="5"/>
-</p>
-<p align="center" style="font-size: 1.1em;">
-  💡 Illuminating the intricate pathways of <strong>Deep Learning</strong>! <br>
-  ✨ Adding extra sparkle and finesse to my <strong>Flutter</strong> creations!
-</p>
-
-<p align="center">
-═══════🎨✨🚀💡🚀✨🎨═══════
+═══════💻✨🎨✨💻═══════
 </p>
 
 <h2 align="center">🛠️ Mʏ Tᴇᴄʜ Sᴛᴀᴄᴋ Sᴘᴇᴄᴛʀᴜᴍ 🌈</h2>
@@ -64,11 +40,6 @@
 </picture>
 </p>
 
-<p align="center">
-═══════🌟🔗💬🤝💬🔗🌟═══════
-</p>
-
-<h2 align="center">🔗 Lᴇᴛ's Pᴀɪɴᴛ ᴛʜᴇ Tᴏᴡɴ Cᴏᴅᴇ! 🎨🤝</h2>
 
 <p align="center">
   <a href="https://github.com/cz-amal" target="_blank">
@@ -86,47 +57,15 @@
 </p>
 
 
-<p align="center">
-═══════📊📈✨🚀✨📈📊═══════
-</p>
-
-<h2 align="center">📊 Mʏ GɪᴛHᴜʙ Gᴀʟᴀxʏ Oғ Cᴏᴅᴇ 🌠</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cz-amal&show_icons=true&theme=dart&hide_border=false&bg_color=303030&border_color=586069&title_color=ADD8E6&icon_color=008080&text_color=90EE90&rank_icon=github&border_radius=15" alt="GitHub Stats - Dart Theme" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cz-amal&layout=compact&theme=dart&hide_border=false&bg_color=303030&border_color=586069&title_color=ADD8E6&icon_color=008080&text_color=90EE90&langs_count=8&card_width=320&border_radius=15" alt="Top Languages - Dart Theme" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cz-amal&show_icons=true&theme=dart&hide_border=false&bg_color=222222&border_color=444455&title_color=00FFFF&icon_color=FFFF00&text_color=DCDCDC&rank_icon=github&border_radius=15" alt="GitHub Stats - Dart Theme" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cz-amal&layout=compact&theme=dart&hide_border=false&bg_color=222222&border_color=444455&title_color=00FFFF&icon_color=FFFF00&text_color=DCDCDC&langs_count=8&card_width=320&border_radius=15" alt="Top Languages - Dart Theme" width="49%" />
 </p>
 
 </p>
 
-<p align="center">
-═══════🤪💡🎉🤖🎉💡🤪═══════
-</p>
 
-<h2 align="center">⚡ Fᴜɴ Fᴀᴄᴛs & Cᴏᴅᴇʀ Qᴜɪʀᴋs 🤪</h2>
-
-<p align="center" style="font-size: 1.1em;">
-  <em>My brain has more tabs open than my browser on a typical Monday! 🤯<br>
-  I firmly believe that rubber duck debugging 🐤 should be an Olympic sport.<br>
-  And yes, my plants 🪴 probably know more about my current projects than some humans!</em>
-</p>
-
-
-<p align="center">
-═══════📌🌟🚀💻🚀🌟📌═══════
-</p>
-
-<h3 align="center">🏆 Pʀᴏᴜᴅʟʏ Pʀᴇsᴇɴᴛɪɴɢ Mʏ Pʀᴏᴊᴇᴄᴛ Pᴀʟᴀᴄᴇ 🏰</h3>
-<p align="center"><em>(Don't just scroll by! My pinned repositories below are glittering with cool creations!)</em></p>
-<p align="center">
-  <a href="https://github.com/cz-amal?tab=repositories&q=&type=source&language=&sort=stargazers">
-    <img src="https://img.shields.io/badge/🚀%20Explore%20My%20Projects!%20🚀-FF4500?style=for-the-badge&logo=rocket&logoColor=white" alt="View All Projects"/>
-  </a>
-</p>
-
-<p align="center">
-═══════💖✨👋💻👋✨💖═══════
-</p>
 
 <p align="center">
   <img src="https://img.icons8.com/bubbles/100/000000/thumb-up.png" alt="Thumbs Up Icon"/> <br>
