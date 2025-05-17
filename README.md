@@ -93,8 +93,8 @@
 <h2 align="center">📊 Mʏ GɪᴛHᴜʙ Gᴀʟᴀxʏ Oғ Cᴏᴅᴇ 🌠</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cz-amal&show_icons=true&theme=merko&hide_border=false&bg_color=gradient&border_color=FF6347&title_color=FFD700&icon_color=00FFFF&text_color=ADFF2F&rank_icon=github&border_radius=15" alt="GitHub Stats - Merko Theme" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cz-amal&layout=compact&theme=vision-friendly-dark&hide_border=false&bg_color=gradient&border_color=7FFF00&title_color=FF69B4&icon_color=FFFF00&text_color=00BFFF&langs_count=8&card_width=320&border_radius=15" alt="Top Languages - Vision Friendly Dark Theme" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cz-amal&show_icons=true&theme=dart&hide_border=false&bg_color=303030&border_color=586069&title_color=ADD8E6&icon_color=008080&text_color=90EE90&rank_icon=github&border_radius=15" alt="GitHub Stats - Dart Theme" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cz-amal&layout=compact&theme=dart&hide_border=false&bg_color=303030&border_color=586069&title_color=ADD8E6&icon_color=008080&text_color=90EE90&langs_count=8&card_width=320&border_radius=15" alt="Top Languages - Dart Theme" width="49%" />
 </p>
 
 </p>
