@@ -21,17 +21,14 @@
   <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=306998" alt="Python" hspace="5" vspace="5">
   <img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white" alt="Java" hspace="5" vspace="5">
   <img src="https://img.shields.io/badge/Dart-00D2B8?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" hspace="5" vspace="5">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" hspace="5" vspace="5">
   <img src="https://img.shields.io/badge/Flutter-027DFD?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" hspace="5" vspace="5">
   <br>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" hspace="5" vspace="5">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" hspace="5" vspace="5">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" hspace="5" vspace="5">
-  <img src="https://img.shields.io/badge/Git-E94E31?style=for-the-badge&logo=git&logoColor=white" alt="Git" hspace="5" vspace="5">
-  <br>
-  <img src="https://img.shields.io/badge/API%20Design-8A2BE2?style=for-the-badge&logo=swagger&logoColor=white" alt="API Design" hspace="5" vspace="5">
-  <img src="https://img.shields.io/badge/UI%2FUX%20Love-FF69B4?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Love" hspace="5" vspace="5">
+  <img src="https://img.shields.io/badge/SQL-FFFFFF?style=for-the-badge&logo=postgresql&logoColor=316192" alt="SQL" hspace="5" vspace="5">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" hspace="5" vspace="5">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" hspace="5" vspace="5">
+  <img src="https://img.shields.io/badge/Machine%20Learning-00756F?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" hspace="5" vspace="5">
 </p>
-
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
