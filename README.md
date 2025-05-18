@@ -1,5 +1,5 @@
 <h1 align="center">🎨✨ Hᴇʏ, I'ᴍ Aᴍᴀʟ C Z! ✨🎨</h1>
-<h3 align="center">🔮 Pʏᴛʜᴏɴ | Jᴀᴠᴀ  | Dᴀʀᴛ  | Fʟᴜᴛᴛᴇʀ  | ML  🔮</h3>
+<h3 align="center">🔮 Pʏᴛʜᴏɴ | Jᴀᴠᴀ  |  Spring Boot  | Dᴀʀᴛ  | Fʟᴜᴛᴛᴇʀ  | ML  🔮</h3>
 
 <p align="center">
   <img src="https://img.icons8.com/plasticine/100/000000/source-code.png" alt="Coding Icon" hspace="10"/>
